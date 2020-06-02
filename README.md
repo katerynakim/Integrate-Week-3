@@ -13,8 +13,7 @@
 2. Olga
 3. Ismail
 4. Hazem
-5. Sharaf
-6. Kateryna
+5. Kateryna
 
 ### Goals:
 * To a webpage of the group repository using HTML and CSS using:
