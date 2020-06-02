@@ -1,4 +1,4 @@
-# semantic-layout-html-css-group-collaboration-week3
+# Semantic-layout-html-css-group-collaboration-week3
 ### The main objectives of the exersice:
 * To practise one more time working with known development strategy
 * Work on branches but in a collaborative manner.
