@@ -137,3 +137,25 @@ nav {
   text-align: center;
   padding: 20px;
 }
+
+/* Article */
+
+article {
+  height: 100px;
+  padding: 50px 30px 150px 30px;
+  background-image: linear-gradient(white, rgb(43, 153, 197));
+  
+}
+
+article h1 {
+  font-size: 40px;
+}
+
+article p {
+  font-size: 20px;
+  text-align: center;
+}
+
+#motto, #school {
+  background-color: yellow;
+}
