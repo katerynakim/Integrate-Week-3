@@ -1,0 +1,68 @@
+body{
+    font: 15px/1.5 Arial, Helvetica,sans-serif;
+    padding:0;
+    margin:0;
+    background-color: rgb(white);
+  }
+
+
+
+  
+  
+  /* Header */
+  
+  header {
+     
+      border: 9px solid rgb(43, 153, 197);
+      color: white;
+      padding: 45px 60px 85px 100px;
+      margin:0px;
+      background-image: linear-gradient(white, rgb(43, 153, 197));
+      border-top: white;
+      border-left: white;
+      border-right: white;
+      
+  }
+  
+  .logo {
+      float: left;
+      padding-left: 30px;
+      padding-right: 50px;
+      bottom:-42px;
+  }
+  .gif {
+    position: absolute;
+    top: 0px;
+    right: 16px;
+    font-size: 18px;
+ }
+  h1 {
+
+text-align: center;
+color:white;
+color: white;
+text-shadow: 2px 2px 4px #000000;}
+  
+
+/*section photo*/
+
+.section{
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+}
+
+.team-member{
+  text-align: center;
+}
+
+.team-member p{
+  font-size: 20px;
+  text-align: center;
+}
+
+.team-member img{
+  padding: 20px;
+  width: 200px;
+  border-radius: 999em;
+}
