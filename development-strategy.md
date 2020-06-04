@@ -101,21 +101,23 @@ __As a site visitor, I want to learn about something cool__
 > assigned to `Olga`  
 > reviewed to `Hazem`
 
-__As a site visitor, I want to know where I can learn more__
+__As a site visitor, I want to know some information about your group__
 
 ### Repository
 
-- [ ] developed on a branch called `article`
+- [x] developed on a branch called `article`
 
 ### HTML
 
-- [ ] An article element ...
-- [ ] ... with the page's main content about group
-- [ ] ... and class "article"
+- [x] Add article element 
+- [x] with the page's main content about group
+- [x] and class "article"
 
 ### CSS
 
-- [ ] the "article" class
+- [x] the "article" class
+- [x] add class "motto" and "school"
+- [x] add style for article element and fonts
 
 ---
 
