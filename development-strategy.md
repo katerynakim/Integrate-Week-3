@@ -101,7 +101,7 @@ __As a site visitor, I want to learn about something cool__
 > assigned to `Olga`  
 > reviewed to `Hazem`
 
-__As a site visitor, I want to know where I can learn more__
+__As a site visitor, I want to know some information about your group__
 
 ### Repository
 
@@ -109,13 +109,15 @@ __As a site visitor, I want to know where I can learn more__
 
 ### HTML
 
-- [ ] An article element ...
-- [ ] ... with the page's main content about group
-- [ ] ... and class "article"
+- [ ] Add article element 
+- [ ] with the page's main content about group
+- [ ] and class "article"
 
 ### CSS
 
 - [ ] the "article" class
+- [ ] add class "motto" and "school"
+- [ ] add style for article element and fonts
 
 ---
 

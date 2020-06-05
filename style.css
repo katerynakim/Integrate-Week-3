@@ -5,10 +5,6 @@ body{
     background-color: rgb(white);
   }
 
-
-
-  
-  
   /* Header */
   
   header {
@@ -20,8 +16,7 @@ body{
       background-image: linear-gradient(white, rgb(43, 153, 197));
       border-top: white;
       border-left: white;
-      border-right: white;
-      
+      border-right: white;  
   }
   
   .logo {
@@ -37,14 +32,14 @@ body{
     font-size: 18px;
  }
   h1 {
-
-text-align: center;
-color:white;
-color: white;
-text-shadow: 2px 2px 4px #000000;}
+  text-align: center;
+  color:white;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  }
   
 
-/*section photo*/
+/*Section photo*/
 
 .section{
  display: flex;
@@ -66,13 +61,94 @@ text-shadow: 2px 2px 4px #000000;}
   width: 200px;
   border-radius: 999em;
 }
+
+/* Nav-bar */
+
+.nav--content-o {
+  background-color: #F0D8DF;
+  width: 70px;
+  height: 40px;
+  border-radius:5px;
+  margin-right: 151.4px;
+  text-align: center;
+}
+
+.nav--content-i {
+  background-color: #98A331;
+  width: 70px;
+  height: 40px;
+  border-radius:5px;
+  margin-right: 151.4px;
+  text-align: center;
+}
+
+.nav--content-k {
+  background-color: #F07B71;
+  width: 100px;
+  height: 40px;
+  border-radius:5px;
+  margin-right: 151.4px;
+  text-align: center; 
+}
+
+.nav--content-h {
+  background-color: #8D90F0;
+  width: 70px;
+  height: 40px;
+  border-radius:5px;
+  margin-right: 151.4px;
+  text-align: center;    
+}
+
+.nav--content-r {
+  background-color: #F0C571;
+  width: 70px;
+  height: 40px;
+  border-radius:5px;
+  margin-right: 151.4px;
+  text-align: center;  
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(43, 8, 107);
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Article */
+
+article {
+  height: 100px;
+  padding: 50px 30px 150px 30px;
+  background-image: linear-gradient(white, rgb(43, 153, 197));
+}
+
+article h1 {
+  font-size: 40px;
+}
+
+article p {
+  font-size: 20px;
+  text-align: center;
+}
+
+#motto, #school {
+  background-color: yellow;
+}
+
+/* Footer */
+
 .footer { 
-  position: fixed; 
+  position: relative; 
   left: 0; 
   bottom: 0; 
   width: 100%; 
   background-color: rgb(43, 8, 107); 
   color: white; 
-  text-align: center; 
+  text-align: center;
   padding: 20px; 
 } 
