@@ -41,10 +41,15 @@ body{
 
 /*Section photo*/
 
+#profile-photo h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
 .section{
  display: flex;
- flex-direction: row;
  justify-content: center;
+ margin-top: 30px;
 }
 
 .team-member{
@@ -57,12 +62,17 @@ body{
 }
 
 .team-member img{
-  padding: 20px;
+  padding: 15px;
   width: 200px;
   border-radius: 999em;
 }
 
 /* Nav-bar */
+
+.nav {
+  display: flex;
+  justify-content: center;
+}
 
 .nav--content-o {
   background-color: #F0D8DF;
@@ -108,16 +118,6 @@ body{
   margin-right: 151.4px;
   text-align: center;  
 }
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: rgb(43, 8, 107);
-  color: white;
-  text-align: center;
-  padding: 20px;
-}
 
 /* Article */
 
@@ -125,10 +125,15 @@ article {
   height: 100px;
   padding: 50px 30px 150px 30px;
   background-image: linear-gradient(white, rgb(43, 153, 197));
+  text-align: center;
 }
 
-article h1 {
+article h3 {
   font-size: 40px;
+  color:white;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  
 }
 
 article p {
