@@ -105,19 +105,19 @@ __As a site visitor, I want to know some information about your group__
 
 ### Repository
 
-- [x] developed on a branch called `article`
+- [ ] developed on a branch called `article`
 
 ### HTML
 
-- [x] Add article element 
-- [x] with the page's main content about group
-- [x] and class "article"
+- [ ] Add article element 
+- [ ] with the page's main content about group
+- [ ] and class "article"
 
 ### CSS
 
-- [x] the "article" class
-- [x] add class "motto" and "school"
-- [x] add style for article element and fonts
+- [ ] the "article" class
+- [ ] add class "motto" and "school"
+- [ ] add style for article element and fonts
 
 ---
 
